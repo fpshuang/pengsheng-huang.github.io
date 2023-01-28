@@ -1,4 +1,4 @@
-<!-- ---
+---
 title: Slides
 summary: An introduction to using Wowchemy's Slides feature.
 authors: []
@@ -63,7 +63,7 @@ In-line math: $x + y = z$
 Block math:
 
 $$
-f\left( x \right) = \;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
+% f\left( x \right) = \;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
 $$
 
 ---
