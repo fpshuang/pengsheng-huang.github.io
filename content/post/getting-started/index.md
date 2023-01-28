@@ -1,9 +1,9 @@
 ---
-title: Distillation Experiment Notes
-subtitle: Zhihu column for knowledge distillation.
+title: 知识蒸馏系列 
+subtitle: Welcome 👋 our Knowledge Distillation notes
 
 # Summary for listings and search engines
-summary: Welcome 👋 to our team's KD notes.
+summary: Welcome 👋 
 
 # Link this post with a project
 projects: []
@@ -30,14 +30,15 @@ image:
 
 authors:
   - admin
-  - Zhongyu Zhang
+  - MMRazor team
 
 tags:
   - Academic
   - 开源
 
 categories:
-  - 实验笔记
+  - Demo
 ---
 
-[LINK](https://zhuanlan.zhihu.com/p/596582609)
+
+## [Link](https://zhuanlan.zhihu.com/p/596582609)
