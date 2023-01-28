@@ -1,5 +1,5 @@
 ---
-title: [Distillation Experiment Notes](https://zhuanlan.zhihu.com/p/596582609)
+title: Distillation Experiment Notes
 subtitle: Zhihu column for knowledge distillation.
 
 # Summary for listings and search engines
@@ -39,3 +39,5 @@ tags:
 categories:
   - 实验笔记
 ---
+
+[LINK](https://zhuanlan.zhihu.com/p/596582609)
