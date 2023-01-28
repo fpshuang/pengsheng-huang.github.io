@@ -77,5 +77,5 @@ email: 'huangpengsheng@sensetime.com'
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Pengsheng Huang is an Researcher of Computer Vision at Sensetime Research. His research interests include model compression, base model and 3D sensor. Our team developed a AutoML toolbox, which now is released as [MMRazor](https://github.com/open-mmlab/mmrazor/tree/dev-1.x), he is charged for Quantization, Knowledge Distillation, and code quality. Prior to that, he developed CV applications at Segway Robotics, and got his B.Eng in Biomedical from UESTC, 2018.
 {style="text-align: justify;"}
