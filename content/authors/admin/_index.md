@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Pengsheng Huang 黄鹏升
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Pengsheng
+last_name: Huang
 
 # Status emoji
 status:
@@ -14,21 +14,21 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Sensetime Research
+    url: https://www.sensetime.com/cn
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include model compression, base model and 3D sensor.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Model Compression
+  - Base Model
+  - 3D sensor
 
 # Education to show in About widget
 education:
