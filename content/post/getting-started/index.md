@@ -1,5 +1,5 @@
 ---
-title: Distillation Experiment Notes
+title: [Distillation Experiment Notes](https://zhuanlan.zhihu.com/p/596582609)
 subtitle: Zhihu column for knowledge distillation.
 
 # Summary for listings and search engines
@@ -44,5 +44,3 @@ categories:
 import libr
 print('hello')
 ```
-
-## [Link](https://zhuanlan.zhihu.com/p/596582609)
