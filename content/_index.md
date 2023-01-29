@@ -90,6 +90,18 @@ sections:
           date_start: '2020-12-01'
           date_end: ''
           description: Working with DL framework team, and work closely with OpenMMLab team.
+        - title: Software Engineer - Computer Vision
+          company: Segway Robotics
+          company_url: ''
+          # company_logo: org-x
+          location: Beijing
+          date_start: '2018-12-01'
+          date_end: '2020-10-01'
+          description: |2-
+              Responsibilities include:
+
+              * Computer Vision model R&D.
+              * CV application on devices.
     design:
       columns: '2'
   # - block: accomplishments
