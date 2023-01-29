@@ -42,22 +42,22 @@ sections:
       username: admin
       # Override your bio text from `authors/admin/_index.md`?
       text:
-  - block: features
-    content:
-      title: Skills
-      items:
-        - name: Python
-          description: 90%
-          # icon: python
-          # icon_pack: fab
-        - name: Deep Learning Framework
-          description: 70%
-          # icon: 
-          # icon_pack: fas
-        - name: Software Architechture
-          description: 80%
-          # icon: camera-retro
-          # icon_pack: fas
+  # - block: features
+  #   content:
+  #     title: Skills
+  #     items:
+  #       - name: Python
+  #         description: 90%
+  #         # icon: python
+  #         # icon_pack: fab
+  #       - name: Deep Learning Framework
+  #         description: 70%
+  #         # icon: 
+  #         # icon_pack: fas
+  #       - name: Software Architechture
+  #         description: 80%
+  #         # icon: camera-retro
+  #         # icon_pack: fas
   - block: experience
     content:
       title: Experience
@@ -175,10 +175,12 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
-        - name: Other
-          tag: Demo
+        - name: Model Compression
+          tag: Model Compression
+        - name: Base Model
+          tag: Base Model
+        - name: 3D sensor
+          tag: 3D sensor
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
