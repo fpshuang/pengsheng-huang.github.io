@@ -1,5 +1,5 @@
 ---
-title: 知识蒸馏圆桌
+title: MMRazor-KD Webinar
 
 event: 社区圆桌
 event_url: 
