@@ -179,8 +179,8 @@ sections:
           tag: Model Compression
         - name: Base Model
           tag: Base Model
-        - name: 3D sensor
-          tag: 3D sensor
+        - name: 3D Sensor
+          tag: 3D Sensor
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'

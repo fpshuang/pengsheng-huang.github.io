@@ -2,8 +2,9 @@
 title: Segway Robotics Core Perception
 summary: 3D detection & tracking application deployed at Segway. 
 tags:
-  - Base Model
-  # - Model Compression
+  # - Base Model
+  - Model Compression
+  - 3D Sensor
 date: '2022-06-21T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
