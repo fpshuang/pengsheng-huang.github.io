@@ -59,7 +59,7 @@ social:
   #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/FreakieHuang
+    link: https://github.com/fpshuang
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/%E9%B9%8F%E5%8D%87-%E9%BB%84-a0bbaa14a/
