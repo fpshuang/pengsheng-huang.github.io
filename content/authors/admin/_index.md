@@ -49,7 +49,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'huangpengsheng@sensetime.com'
+    link: 'huangpengsheng@baidu.com'
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/GeorgeCushen
@@ -73,7 +73,7 @@ social:
   #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'huangpengsheng@sensetime.com'
+email: 'huangpengsheng@baidu.com'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true

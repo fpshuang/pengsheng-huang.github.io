@@ -255,7 +255,7 @@ sections:
       text: |-
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
-      email: huangpengsheng@sensetime.com
+      email: huangpengsheng@baidu.com
       # phone: 888 888 88 88
       # appointment_url: 'https://calendly.com'
       # address:
@@ -267,7 +267,7 @@ sections:
       #   country_code: US
       # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
       office_hours:
-        - 'Weekday 10:00 to 20:00 BST'
+        - 'Weekday 10:00 to 20:00 UTC+8'
         # - 'Wednesday 09:00 to 10:00'
       # contact_links:
       #   - icon: twitter
