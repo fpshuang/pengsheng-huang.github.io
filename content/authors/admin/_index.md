@@ -14,12 +14,14 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Researcher
+role: Senir Machine Learning Engineer
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Sensetime Research
+  - name: ~~Sensetime Research~~
     url: https://www.sensetime.com/cn
+  - name: Baidu Inc
+    url: https://www.baidu.com/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include model compression, base model and 3D sensor.
@@ -77,5 +79,5 @@ email: 'huangpengsheng@sensetime.com'
 highlight_name: true
 ---
 
-Pengsheng Huang is an Researcher of Computer Vision at Sensetime Research. His research interests include model compression, base model and 3D sensor. Our team developed a AutoML toolbox, which now is released as [MMRazor](https://github.com/open-mmlab/mmrazor/tree/dev-1.x), he is charged for Quantization, Knowledge Distillation, and code quality. Prior to that, he developed CV applications at Segway Robotics, and got his B.Eng in Biomedical from UESTC, 2018.
+Pengsheng Huang is an ML Engineer of Computer Vision at Baidu Inc. His research interests include model compression, base model and 3D sensor. Our team developed a AutoML toolbox, which now is released as [MMRazor](https://github.com/open-mmlab/mmrazor/tree/dev-1.x), he is charged for Quantization, Knowledge Distillation, and code quality. Prior to that, he developed CV applications at Segway Robotics, and got his B.Eng in Biomedical from UESTC, 2018.
 {style="text-align: justify;"}
