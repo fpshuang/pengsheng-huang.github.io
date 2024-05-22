@@ -18,7 +18,7 @@ role: Senir Machine Learning Engineer
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: ~~Sensetime Research~~
+  - name: <s>Sensetime Research</s>
     url: https://www.sensetime.com/cn
   - name: Baidu Inc
     url: https://www.baidu.com/
